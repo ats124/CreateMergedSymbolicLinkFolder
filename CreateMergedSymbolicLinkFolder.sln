@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateMergedSymbolicLinkFolder", "CreateMergedSymbolicLinkFolder.csproj", "{170D7693-BEF2-4E28-A29A-D7D80F8FE8FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170D7693-BEF2-4E28-A29A-D7D80F8FE8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170D7693-BEF2-4E28-A29A-D7D80F8FE8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170D7693-BEF2-4E28-A29A-D7D80F8FE8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170D7693-BEF2-4E28-A29A-D7D80F8FE8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {353CC8A1-89BE-4DA1-AA64-42199667C889}
+	EndGlobalSection
+EndGlobal
